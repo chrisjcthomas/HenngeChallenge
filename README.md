@@ -72,6 +72,7 @@ Your program will be auto-tested, so please be strict about the input/output spe
 **Note**: Make sure to upload only a single file as your solution and no additional files should exist in your provided gist.
 <br>
 <br>
+
 # Mission 3: Send us the URL of your work
 
 ## Description
