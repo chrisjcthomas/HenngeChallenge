@@ -57,8 +57,8 @@ This project involves writing a program to calculate the sum of squares of given
 ```
 <br>
 <br>
-# Mission 2: Publish your source code as a secret gist
 
+# Mission 2: Publish your source code as a secret gist
 
 ## Description
 Publish your source code as a secret gist. You will need a GitHub account to create a secret gist, if you are not familiar with secret gists, follow the instructions here.
