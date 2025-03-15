@@ -20,7 +20,11 @@ This project involves writing a program to calculate the sum of squares of given
 
 ## Sample Input
 2
-3
-1 2 3
 4
--1 0 1 2
+3 -1 1 14
+5
+9 6 -53 32 16
+
+## Sample Output
+206
+1397
