@@ -15,16 +15,25 @@ This project involves writing a program to calculate the sum of squares of given
 - The solution must be written in either Go or Python.
 - No global variables should be declared.
 - Specific constraints apply based on the chosen language:
+  
   - **Go**: No use of `for` or `goto` statements.
     ```
-  - package main
+    package main
 
-func main() {
-  ...
-}
-```
+    func main() {
+       ...
+    }
+    ```
+    
   - **Python**: No use of `for` loops, `while` loops, or comprehensions.
+```
+def main():
+    ...
 
+
+if __name__ == "__main__":
+    main()
+```
 ## Sample Input
 ```
 2
