@@ -1,7 +1,7 @@
 # HenngeChallenge
 This challenge is intended for backend position or global internship (full-stack) applicants.
 
-# Project Title
+# Mission 1: Write a program which fulfills the requirements below
 
 ## Description
 This project involves writing a program to calculate the sum of squares of given integers, excluding any negatives. The program handles multiple test cases as specified in the input.
@@ -19,3 +19,8 @@ This project involves writing a program to calculate the sum of squares of given
   - **Python**: No use of `for` loops, `while` loops, or comprehensions.
 
 ## Sample Input
+2
+3
+1 2 3
+4
+-1 0 1 2
