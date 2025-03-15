@@ -1,7 +1,7 @@
 # HenngeChallenge
 This challenge is intended for backend position or global internship (full-stack) applicants.
 
-### Mission 1: Write a program which fulfills the requirements below
+# Mission 1: Write a program which fulfills the requirements below
 
 ## Description
 This project involves writing a program to calculate the sum of squares of given integers, excluding any negatives. The program handles multiple test cases as specified in the input.
