@@ -78,6 +78,7 @@ Your program will be auto-tested, so please be strict about the input/output spe
 
 ## Description
 First, construct a JSON string like below:
+
 **Go solution**
 ```
 {
@@ -101,7 +102,7 @@ Then, make an HTTP POST request to the following URL with the JSON string as the
 `https://api.challenge.hennge.com/challenges/003`
 
 **Content type**
-The `Content-Type: of the request must be `application/json`.
+The `Content-Type:` of the request must be `application/json`.
 
 <br>
 
