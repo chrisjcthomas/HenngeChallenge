@@ -1,5 +1,5 @@
 <h1 align="center">Hennge Challenge</h1>
-<p align="center">This challenge is intended for backend position or global internship (full-stack) applicants.</p>
+
 
 # Mission 1: Write a program which fulfills the requirements below
 
