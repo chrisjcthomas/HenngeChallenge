@@ -19,12 +19,15 @@ This project involves writing a program to calculate the sum of squares of given
   - **Python**: No use of `for` loops, `while` loops, or comprehensions.
 
 ## Sample Input
-**2
-*4*
+```
+2
+4
 3 -1 1 14
 5
 9 6 -53 32 16
-
-## Sample Output.
+```
+## Sample Output
+```
 206
 1397
+```
