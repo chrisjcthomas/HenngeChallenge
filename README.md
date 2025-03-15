@@ -115,11 +115,11 @@ For example, if the userid is "ninja@example.com", the token shared secret is "n
 For example, if the userid is "ninjasamuraisumotorishogun@example.com", the token shared secret is "ninjasamuraisumotorishogun@example.comHENNGECHALLENGE003"
 If your POST request succeeds, the server returns HTTP status code 200.
 
-**Rules**
+### Rules
 - You do not have to disclose how you achieved this mission at this time. Do not hesitate to use source codes or tools on the net, but do the exploring process by yourself of course, do - not ask your friend to help you.
 - No bruteforce attacks, please!
 
-###Sample Request
+**Sample Request**
 ```
 POST /challenges/003 HTTP/1.1
 Authorization: Basic bmluamFAZXhhbXBsZS5jb206MTU5NTk0MjU2MA==
@@ -130,7 +130,7 @@ Content-Length: 133
 
 {"github_url":"https://gist.github.com/hennge/b859bd12e7a7fb418141","contact_email":"ninja@example.com","solution_language":"golang"}
 ```
-###Sample Response
+**Sample Response**
 ```
 HTTP/1.1 200 OK
 Content-Type: application/json
