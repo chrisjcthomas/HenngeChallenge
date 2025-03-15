@@ -70,6 +70,7 @@ We will take a look at your source code later, after you achieve Mission 3.
 Your program will be auto-tested, so please be strict about the input/output specification. For failed solution, we will still assess it case-by-case but it will cause points reduction to your overall score.
 
 **Note**: Make sure to upload only a single file as your solution and no additional files should exist in your provided gist.
+
 <br>
 <br>
 
