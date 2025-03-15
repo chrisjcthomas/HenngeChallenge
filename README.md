@@ -55,7 +55,8 @@ This project involves writing a program to calculate the sum of squares of given
 206
 1397
 ```
-
+<br>
+<br>
 # Mission 2: Publish your source code as a secret gist
 
 
