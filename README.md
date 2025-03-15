@@ -55,3 +55,17 @@ This project involves writing a program to calculate the sum of squares of given
 206
 1397
 ```
+
+# Mission 2: Publish your source code as a secret gist
+
+
+## Description
+Publish your source code as a secret gist. You will need a GitHub account to create a secret gist, if you are not familiar with secret gists, follow the instructions here.
+
+Please make sure not to publish it as a public gist.
+
+We will take a look at your source code later, after you achieve Mission 3.
+
+Your program will be auto-tested, so please be strict about the input/output specification. For failed solution, we will still assess it case-by-case but it will cause points reduction to your overall score.
+
+**Note**: Make sure to upload only a single file as your solution and no additional files should exist in your provided gist.
