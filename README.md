@@ -16,6 +16,13 @@ This project involves writing a program to calculate the sum of squares of given
 - No global variables should be declared.
 - Specific constraints apply based on the chosen language:
   - **Go**: No use of `for` or `goto` statements.
+    ```
+  - package main
+
+func main() {
+  ...
+}
+```
   - **Python**: No use of `for` loops, `while` loops, or comprehensions.
 
 ## Sample Input
